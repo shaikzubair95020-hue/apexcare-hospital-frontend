@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://apexcare-hospital-backend-production.up.railway.app';
 
 function App() {
   // =========================================================
